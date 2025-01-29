@@ -1,0 +1,10 @@
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\bin\Debug\Sample_0.exe.config
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\bin\Debug\Sample_0.exe
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\bin\Debug\Sample_0.pdb
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.AssemblyReference.cache
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.Form1.resources
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.Properties.Resources.resources
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.GenerateResource.cache
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.csproj.CoreCompileInputs.cache
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.exe
+D:\Системное программирование\2 Процессы\Sample_0\Sample_0\obj\Debug\Sample_0.pdb
